@@ -7,7 +7,6 @@
 * Working with **JavaScript** _(figuring the likeness/weirdness of Javascript)_ :neckbeard::bomb:🤯 _(After college, I added `Script` to `Java` :clock1:)_
 * Majority of times I use **React**, **TypeScript**, **Node**, **Angular**, ~AngularJS~ and whatever Javascript offers. :mouse::musical_keyboard:_(keyboard emoji escaped)_
 * Sometime I use something other than Javascript. :cloud:(__AWS__, __Azure__, __Salesforce__), __Docker__, __Git__, __Jenkins__, __C#__, __Stack__ _Yes!_ __Overflow__.
-* _Why not trends? (ML, AI, Blockchain, etc)_, I am not savvy enough, but someday I'll(_maybe_)
 * Sometimes I blog about my traveling experiences. :globe_with_meridians: [Read more...](https://pramodmali.com) (**I am Lazy and I don't update much**)
 * You can find more about technologies :globe_with_meridians: [here...](https://pramodmali.tech)(**Under Construction** :construction:)
 * I am active on social media but `read-only` mode. :alien:
